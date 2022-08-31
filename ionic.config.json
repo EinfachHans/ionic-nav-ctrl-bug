@@ -1,0 +1,7 @@
+{
+  "name": "nav-ctrl-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
